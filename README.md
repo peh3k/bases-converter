@@ -38,6 +38,10 @@ Windows:
 ```
 pip install pysimplegui
 ```
+## ❗ Observações Importantes ❗
+- Baixe as imagens e as coloque em uma pasta
+- Rode o código dentro dessa pasta
+- Sem as imagens o programa não funciona!
 
 
 [⬆ Voltar ao topo](#conversor-de-bases-numericas)<br>
