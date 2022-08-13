@@ -3,7 +3,7 @@
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ![GitHub language count](https://img.shields.io/github/languages/count/peh3k/conversor-de-bases-numericas?style=for-the-badge)
-
+![alt text](https://github.com/peh3k/conversor-de-bases-numericas/blob/ca3df9ebe4483284b168dd41ae141c8447f115cc/tela.png)
 
 > Este é um simples conversor de algumas bases numéricas, feito para fins educativos
 
@@ -14,7 +14,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Decimal
 - [x] Octal
 - [x] Binária
-- [ ] Hexadecimal
+- [x] Hexadecimal
 
 ## 💻 Pré-requisitos
 
@@ -24,23 +24,19 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você possui editores de texto completos `<PyCharm / VsCode / Outros>`.
 
 
-## 🚀 Instalando PySimpleGui
+## 🚀 Instalando ttkbootstrap
 
-Para instalar o PySimpleGui, siga estas etapas:
+Para instalar o ttkbootstrap, siga estas etapas:
 
 Linux:
 ```
-pip install pysimplegui
+pip install ttkbootstrap
 ```
 
 Windows:
 ```
-pip install pysimplegui
+pip install ttkbootstrap
 ```
-## ❗ Observações Importantes ❗
-- Baixe as imagens e as coloque em uma pasta
-- Rode o código dentro dessa pasta
-- Sem as imagens o programa não funciona!
 
 
 [⬆ Voltar ao topo](#conversor-de-bases-numericas)<br>
