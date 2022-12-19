@@ -38,6 +38,11 @@ Windows:
 pip install ttkbootstrap
 ```
 
+No caso de erro "ImageTK" no Linux:
+```
+sudo apt-get install python3-pil python3-pil.imagetk
+```
+
 
 [⬆ Voltar ao topo](#conversor-de-bases-numericas)<br>
 
