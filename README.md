@@ -1,7 +1,5 @@
 # Conversor de bases numéricas
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
 ![GitHub language count](https://img.shields.io/github/languages/count/peh3k/conversor-de-bases-numericas?style=for-the-badge)
 ![alt text](https://github.com/peh3k/conversor-de-bases-numericas/blob/ca3df9ebe4483284b168dd41ae141c8447f115cc/tela.png)
 
